@@ -1,4 +1,5 @@
 #include <iostream>
+#include <androidstream>
 #include <iomanip>
 
 using namespace std;
@@ -76,3 +77,5 @@ int main()
 
   return 0;
 }
+
+//why include only ios stream
